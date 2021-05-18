@@ -16,7 +16,7 @@ Tic-Tac-Toe (X-O) is a simple game created with Python using Jupyter Notebook.ðŸ
 ![tic-tac-toe-2](https://user-images.githubusercontent.com/44253834/118634591-5457b400-b7f0-11eb-9faa-57c1600427e3.jpg)
 *Here you've have to enter your names and your respective choices for X - O.*
 
-![tic-tac-toe-3](https://user-images.githubusercontent.com/44253834/118635179-e9f34380-b7f0-11eb-9c84-a8cf23f1f08b.jpg)
+![tic-tac-toe-3](https://user-images.githubusercontent.com/44253834/118636666-8d912380-b7f2-11eb-895c-a3fe43301d19.jpg)
 *As per the available cell positions, you can enter any number between (1-9) to lock your choice everytime it prompts, which will eventually end up with someone winning or losing the game or a draw between the 2 players.*
 
 ## Hope you liked it. Thank you!ðŸ˜Š
